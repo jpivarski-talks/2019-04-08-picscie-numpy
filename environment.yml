@@ -7,5 +7,6 @@ dependencies:
   - dask
   - distributed
   - python-graphviz
+  - scikit-learn
   - numba
   - pybind11
