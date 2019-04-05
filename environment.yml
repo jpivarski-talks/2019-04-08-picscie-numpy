@@ -1,0 +1,11 @@
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - dask
+  - distributed
+  - python-graphviz
+  - numba
+  - pybind11
