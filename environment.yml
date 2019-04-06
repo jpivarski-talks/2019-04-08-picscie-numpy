@@ -6,7 +6,6 @@ dependencies:
   - pandas
   - matplotlib
   - dask
-  - distributed
   - python-graphviz
   - scikit-learn
   - awkward
