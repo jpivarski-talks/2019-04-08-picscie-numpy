@@ -9,5 +9,6 @@ dependencies:
   - python-graphviz
   - scikit-learn
   - awkward
+  - uproot
   - numba
   - pybind11
