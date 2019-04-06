@@ -1,5 +1,6 @@
 channels:
   - conda-forge
+  - esrf-bcu
 dependencies:
   - numpy
   - pandas
@@ -14,3 +15,5 @@ dependencies:
   - cython
   - pybind11
   - pillow
+  - libnuma
+  - psutil
