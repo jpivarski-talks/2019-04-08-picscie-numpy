@@ -19,7 +19,7 @@ Come with conda ([Miniconda](https://docs.conda.io/en/latest/miniconda.html) or 
 
 ## At the start of class
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-04-08-picscie-numpy/1.0rc2?urlpath=lab)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jpivarski/2019-04-08-picscie-numpy/1.0?urlpath=lab)
 
 Use the Launch Binder button to run these exercises on the web or the following to install on your own computer.
 
@@ -31,7 +31,7 @@ conda config --add channels conda-forge
 conda install numpy pandas matplotlib scikit-learn awkward numba
 
 # maybe: only used for one or two things that may be skipped
-conda install dask distributed python-graphviz uproot cython pybind11 pillow libnuma psutil
+conda install dask distributed python-graphviz uproot cython pybind11 pillow psutil
 
 # get the lessons and start the notebook
 git clone https://github.com/jpivarski/2019-04-08-picscie-numpy.git
