@@ -13,3 +13,4 @@ dependencies:
   - numba
   - cython
   - pybind11
+  - pillow
