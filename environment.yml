@@ -8,5 +8,6 @@ dependencies:
   - distributed
   - python-graphviz
   - scikit-learn
+  - awkward
   - numba
   - pybind11
