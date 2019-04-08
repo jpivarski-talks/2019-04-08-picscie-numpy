@@ -2,7 +2,7 @@
 
    * [347 Lewis Library, Vis Lab](https://www.google.com/maps?q=Lewis+Library,+Princeton,+NJ+08540&pws=0)
    * April 8‒10, 2019
-   * 9:30am‒12:00pm
+   * 9:00am‒12:00pm
    * On the [Princeton Research Computing website](https://researchcomputing.princeton.edu/events/high-performance-python-and-interoperability-compiled-code-48-410)
 
 ## Abstract
